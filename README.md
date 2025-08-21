@@ -1,4 +1,4 @@
-\# Orcarch, a simple script that's help blind user to install Orca in Arch derivative distros  
+## Orcarch, a simple script that's help blind user to install Orca in Arch derivative distros  
   
 ## Introduction  
 I'm a blind Linux user and many times, when I try distros, Orca isn't installed, especially on Arch based distros such as Cachyos, Manjaro, Endeavouros etc.  
@@ -11,7 +11,7 @@ If you earn sound it means that live is completely loaded.
 ## Requirements  
 For try this script you must have:  
 - a wired connection (WiFi might be impossible). If you have an Android device you can use  it in tetering USB mode, I suggest to don't use mobile data if you haven't a flat fee.  
--A device such as USB pendrive that contains your live distro.  
+- A device such as USB pendrive that contains your live distro.  
 For prepare your USB device read the online tutorials for your platform.  
 ## Download and run script  
 After you prepared the device restart pc, then boot it. Note: on UEFI systems you might can have problems with secure boot and probably it must disabled.  
